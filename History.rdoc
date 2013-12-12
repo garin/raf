@@ -1,3 +1,7 @@
+== 1.0.6 (2013-12-12)
+* project finished.
+* rename to mok (https://github.com/garin/mok)
+
 == 1.0.5 (2013-12-10)
 * update raf2html : v0.0.8
 * update raf-parser: v0.2.3
